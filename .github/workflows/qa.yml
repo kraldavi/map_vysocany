@@ -1,0 +1,33 @@
+name: QA
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: www
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.4'
+          coverage: none
+          tools: composer:v2
+
+      - name: Install dependencies
+        run: composer install --prefer-dist --no-progress
+
+      - name: Code style (PHP CS Fixer)
+        run: composer cs-check
+
+      - name: Static analysis (PHPStan)
+        run: composer phpstan
+
+      - name: Latte templates
+        run: composer latte-lint

@@ -1,0 +1,22 @@
+extensions:
+	nextras.dbal: Nextras\Dbal\Bridges\NetteDI\DbalExtension
+	nextras.orm: Nextras\Orm\Bridges\NetteDI\OrmExtension
+	migrations: Nextras\Migrations\Bridges\NetteDI\MigrationsExtension
+
+nextras.dbal:
+	driver: pdoMysql
+	host: %dbHost%
+	port: 3306
+	database: %dbName%
+	username: %dbUser%
+	password: %dbPassword%
+	charset: utf8mb4
+
+nextras.orm:
+	model: App\Model\Orm
+
+migrations:
+	dir: %appDir%/../migrations
+	driver: mysql
+	dbal: nextras
+	withDummyData: %debugMode%

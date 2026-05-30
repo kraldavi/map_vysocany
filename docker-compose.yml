@@ -1,0 +1,43 @@
+services:
+  app:
+    build: .
+    container_name: nette-app
+    ports:
+      - "8000:80"
+    volumes:
+      - ./www:/var/www/html
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_DATABASE: mapa_vysocany
+      DB_USER: user
+      DB_PASSWORD: secret
+      API_KEY: dev-secret
+
+  composer:
+    image: composer:2
+    container_name: composer
+    volumes:
+      - ./www:/app
+    working_dir: /app
+    entrypoint: ["composer"]
+
+  db:
+    image: mysql:8.0
+    container_name: nette-db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootsecret
+      MYSQL_DATABASE: mapa_vysocany
+      MYSQL_USER: user
+      MYSQL_PASSWORD: secret
+    ports:
+      - "3306:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./docker/mysql:/docker-entrypoint-initdb.d:ro
+
+volumes:
+  db_data:

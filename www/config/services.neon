@@ -1,0 +1,15 @@
+services:
+	- App\Core\RouterFactory::createRouter
+	- App\Console\ImportOsmCommand
+	- App\Security\ApiKeyAuthenticator(%apiKey%)
+
+extensions:
+	console: Contributte\Console\DI\ConsoleExtension(%consoleMode%)
+
+search:
+	-	in: %appDir%
+		classes:
+			- *Facade
+			- *Factory
+			- *Repository
+			- *Service

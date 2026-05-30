@@ -1,0 +1,117 @@
+{block title}Address map{/block}
+
+{block content}
+	<h1>Address map</h1>
+	<p class="map-intro">
+		Address points from OpenStreetMap (Jimramov area). Click a marker for details and a link to the cadastre.
+	</p>
+
+	<ul class="map-legend">
+		<li><span class="map-legend__dot map-legend__dot--with-owners"></span> owners on record</li>
+		<li><span class="map-legend__dot map-legend__dot--no-owners"></span> no owner records</li>
+	</ul>
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+
+	<style>
+		#map {
+			height: 600px;
+			width: 100%;
+			border-radius: 8px;
+			border: 1px solid #ddd;
+		}
+
+		.map-intro {
+			color: #555;
+			max-width: 60rem;
+		}
+
+		.map-legend {
+			display: flex;
+			gap: 1.5rem;
+			list-style: none;
+			padding: 0;
+			margin: 0 0 1rem;
+		}
+
+		.map-legend__dot {
+			display: inline-block;
+			width: 12px;
+			height: 12px;
+			border-radius: 50%;
+			margin-right: 0.35rem;
+			vertical-align: middle;
+		}
+
+		.map-legend__dot--with-owners {
+			background: #c0392b;
+		}
+
+		.map-legend__dot--no-owners {
+			background: #2980b9;
+		}
+	</style>
+
+	<div id="map"></div>
+	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+	<script>
+		const elements = {$mapData};
+	</script>
+
+	<script n:syntax=off>
+		const map = L.map('map').setView([49.43, 16.81], 13);
+
+		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			maxZoom: 19,
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+		}).addTo(map);
+
+		const markers = [];
+
+		elements.forEach((el) => {
+			const owners = el.ownersData ?? [];
+			const hasOwners = owners.length > 0;
+
+			let ownersHtml = '';
+			if (hasOwners) {
+				ownersHtml = '<b>Owners:</b><br>';
+				owners.forEach((o) => {
+					ownersHtml += `${o.name} – share: ${o.share || '1'}<br>`;
+				});
+			}
+
+			const popupContent = `
+				<b>${el.place ?? ''} ${el.housenumber ?? ''}</b><br>
+				Postcode: ${el.postcode ?? '–'}<br>
+				OSM ID: ${el.id}<br>
+				<a href="https://nahlizenidokn.cuzk.cz/MapaIdentifikace.aspx?l=KN&x=${el.sjtsk_x}&y=${el.sjtsk_y}" target="_blank" rel="noopener">
+					View in cadastre (KN)
+				</a>
+				${ownersHtml ? '<br>' + ownersHtml : ''}
+			`;
+
+			const color = hasOwners ? '#c0392b' : '#2980b9';
+
+			const marker = L.circleMarker([el.lat, el.lon], {
+				radius: 8,
+				fillColor: color,
+				color: color,
+				weight: 1,
+				opacity: 1,
+				fillOpacity: 0.85,
+			})
+				.addTo(map)
+				.bindPopup(popupContent);
+
+			markers.push(marker);
+		});
+
+		if (markers.length > 0) {
+			const group = L.featureGroup(markers);
+			map.fitBounds(group.getBounds().pad(0.1));
+		}
+
+		map.invalidateSize();
+	</script>
+{/block}

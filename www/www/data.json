@@ -1,0 +1,4633 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-26T14:47:16Z",
+    "timestamp_areas_base": "2026-01-22T23:45:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+    {
+      "type": "node",
+      "id": 1179311448,
+      "lat": 49.4283875,
+      "lon": 16.7999725,
+      "tags": {
+        "addr:conscriptionnumber": "41",
+        "addr:country": "CZ",
+        "addr:housenumber": "41",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914890"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311462,
+      "lat": 49.4313388,
+      "lon": 16.8134275,
+      "tags": {
+        "addr:conscriptionnumber": "97",
+        "addr:country": "CZ",
+        "addr:housenumber": "97",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916256"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311467,
+      "lat": 49.4322788,
+      "lon": 16.8140650,
+      "tags": {
+        "addr:conscriptionnumber": "35",
+        "addr:country": "CZ",
+        "addr:housenumber": "35",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915667"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311477,
+      "lat": 49.4301238,
+      "lon": 16.8081413,
+      "tags": {
+        "addr:conscriptionnumber": "132",
+        "addr:country": "CZ",
+        "addr:housenumber": "132",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916604"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311494,
+      "lat": 49.4291051,
+      "lon": 16.7998463,
+      "tags": {
+        "addr:conscriptionnumber": "8",
+        "addr:country": "CZ",
+        "addr:housenumber": "8",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914563"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311498,
+      "lat": 49.4317675,
+      "lon": 16.8078050,
+      "tags": {
+        "addr:conscriptionnumber": "61",
+        "addr:country": "CZ",
+        "addr:housenumber": "61",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915918"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311511,
+      "lat": 49.4342426,
+      "lon": 16.8134050,
+      "tags": {
+        "addr:conscriptionnumber": "1",
+        "addr:country": "CZ",
+        "addr:housenumber": "1",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915322"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311515,
+      "lat": 49.4329175,
+      "lon": 16.8159338,
+      "tags": {
+        "addr:conscriptionnumber": "14",
+        "addr:country": "CZ",
+        "addr:housenumber": "14",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915454"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311518,
+      "lat": 49.4297788,
+      "lon": 16.8077238,
+      "tags": {
+        "addr:conscriptionnumber": "207",
+        "addr:country": "CZ",
+        "addr:housenumber": "207",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "27999858"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311535,
+      "lat": 49.4285500,
+      "lon": 16.8000688,
+      "tags": {
+        "addr:conscriptionnumber": "36",
+        "addr:country": "CZ",
+        "addr:housenumber": "36",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914849"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311544,
+      "lat": 49.4328213,
+      "lon": 16.8110663,
+      "tags": {
+        "addr:conscriptionnumber": "163",
+        "addr:country": "CZ",
+        "addr:housenumber": "163",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916906"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311561,
+      "lat": 49.4323238,
+      "lon": 16.8094888,
+      "tags": {
+        "addr:conscriptionnumber": "109",
+        "addr:country": "CZ",
+        "addr:housenumber": "109",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916370"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311569,
+      "lat": 49.4298463,
+      "lon": 16.8006588,
+      "tags": {
+        "addr:conscriptionnumber": "70",
+        "addr:country": "CZ",
+        "addr:housenumber": "70",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311571,
+      "lat": 49.4299538,
+      "lon": 16.8103200,
+      "tags": {
+        "addr:conscriptionnumber": "127",
+        "addr:country": "CZ",
+        "addr:housenumber": "127",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916558"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311589,
+      "lat": 49.4300751,
+      "lon": 16.7988206,
+      "tags": {
+        "addr:conscriptionnumber": "3",
+        "addr:country": "CZ",
+        "addr:housenumber": "3",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914512"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311598,
+      "lat": 49.4316575,
+      "lon": 16.8101238,
+      "tags": {
+        "addr:conscriptionnumber": "73",
+        "addr:country": "CZ",
+        "addr:housenumber": "73",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916027"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311607,
+      "lat": 49.4329538,
+      "lon": 16.8151413,
+      "tags": {
+        "addr:conscriptionnumber": "9",
+        "addr:country": "CZ",
+        "addr:housenumber": "9",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915403"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311616,
+      "lat": 49.4326338,
+      "lon": 16.8106738,
+      "tags": {
+        "addr:conscriptionnumber": "174",
+        "addr:country": "CZ",
+        "addr:housenumber": "174",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917015"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311637,
+      "lat": 49.4306413,
+      "lon": 16.8023225,
+      "tags": {
+        "addr:conscriptionnumber": "47",
+        "addr:country": "CZ",
+        "addr:housenumber": "47",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914946"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311642,
+      "lat": 49.4309113,
+      "lon": 16.8135163,
+      "tags": {
+        "addr:conscriptionnumber": "104",
+        "addr:country": "CZ",
+        "addr:housenumber": "104",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916329"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311648,
+      "lat": 49.4293526,
+      "lon": 16.8105600,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.4",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "4",
+        "ref:ruian:addr": "7917317"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311680,
+      "lat": 49.4316163,
+      "lon": 16.8097838,
+      "tags": {
+        "addr:conscriptionnumber": "138",
+        "addr:country": "CZ",
+        "addr:housenumber": "138",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916663"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311688,
+      "lat": 49.4294188,
+      "lon": 16.7998463,
+      "tags": {
+        "addr:conscriptionnumber": "14",
+        "addr:country": "CZ",
+        "addr:housenumber": "14",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914628"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311695,
+      "lat": 49.4315188,
+      "lon": 16.8078500,
+      "tags": {
+        "addr:conscriptionnumber": "68",
+        "addr:country": "CZ",
+        "addr:housenumber": "68",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915977"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311696,
+      "lat": 49.4316225,
+      "lon": 16.8109663,
+      "tags": {
+        "addr:conscriptionnumber": "181",
+        "addr:country": "CZ",
+        "addr:housenumber": "181",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917082"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311700,
+      "lat": 49.4313450,
+      "lon": 16.8139900,
+      "tags": {
+        "addr:conscriptionnumber": "83",
+        "addr:country": "CZ",
+        "addr:housenumber": "83",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916116"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311709,
+      "lat": 49.4345327,
+      "lon": 16.8151281,
+      "tags": {
+        "addr:conscriptionnumber": "21",
+        "addr:country": "CZ",
+        "addr:housenumber": "21",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915527"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311713,
+      "lat": 49.4302701,
+      "lon": 16.8093188,
+      "tags": {
+        "addr:conscriptionnumber": "118",
+        "addr:country": "CZ",
+        "addr:housenumber": "118",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916469"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311727,
+      "lat": 49.4278863,
+      "lon": 16.7981150,
+      "tags": {
+        "addr:conscriptionnumber": "42",
+        "addr:country": "CZ",
+        "addr:housenumber": "42",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914903"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311734,
+      "lat": 49.4320050,
+      "lon": 16.8138363,
+      "tags": {
+        "addr:conscriptionnumber": "46",
+        "addr:country": "CZ",
+        "addr:housenumber": "46",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915772"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311739,
+      "lat": 49.4304563,
+      "lon": 16.8029325,
+      "tags": {
+        "addr:conscriptionnumber": "76",
+        "addr:country": "CZ",
+        "addr:housenumber": "76",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "23120576"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311751,
+      "lat": 49.4282488,
+      "lon": 16.7985925,
+      "tags": {
+        "addr:conscriptionnumber": "25",
+        "addr:country": "CZ",
+        "addr:housenumber": "25",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914733"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311758,
+      "lat": 49.4332950,
+      "lon": 16.8106863,
+      "tags": {
+        "addr:conscriptionnumber": "146",
+        "addr:country": "CZ",
+        "addr:housenumber": "146",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916744"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311775,
+      "lat": 49.4332788,
+      "lon": 16.8114700,
+      "tags": {
+        "addr:conscriptionnumber": "193",
+        "addr:country": "CZ",
+        "addr:housenumber": "193",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917198"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311783,
+      "lat": 49.4318188,
+      "lon": 16.8079025,
+      "tags": {
+        "addr:conscriptionnumber": "77",
+        "addr:country": "CZ",
+        "addr:housenumber": "77",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916051"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311799,
+      "lat": 49.4328013,
+      "lon": 16.8144038,
+      "tags": {
+        "addr:conscriptionnumber": "32",
+        "addr:country": "CZ",
+        "addr:housenumber": "32",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915632"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311804,
+      "lat": 49.4319588,
+      "lon": 16.8117487,
+      "tags": {
+        "addr:conscriptionnumber": "113",
+        "addr:country": "CZ",
+        "addr:housenumber": "113",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916418"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311812,
+      "lat": 49.4275263,
+      "lon": 16.7976375,
+      "tags": {
+        "addr:conscriptionnumber": "53",
+        "addr:country": "CZ",
+        "addr:housenumber": "53",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915004"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311824,
+      "lat": 49.4321300,
+      "lon": 16.8084738,
+      "tags": {
+        "addr:conscriptionnumber": "58",
+        "addr:country": "CZ",
+        "addr:housenumber": "58",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915888"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311829,
+      "lat": 49.4313763,
+      "lon": 16.8047275,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.19",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "19",
+        "ref:ruian:addr": "7917384"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311841,
+      "lat": 49.4295638,
+      "lon": 16.7993100,
+      "tags": {
+        "addr:conscriptionnumber": "20",
+        "addr:country": "CZ",
+        "addr:housenumber": "20",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914687"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311846,
+      "lat": 49.4316888,
+      "lon": 16.8058500,
+      "tags": {
+        "addr:conscriptionnumber": "158",
+        "addr:country": "CZ",
+        "addr:housenumber": "158",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916850"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311867,
+      "lat": 49.4313188,
+      "lon": 16.8069349,
+      "tags": {
+        "addr:conscriptionnumber": "89",
+        "addr:country": "CZ",
+        "addr:housenumber": "89",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916175"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311870,
+      "lat": 49.4326200,
+      "lon": 16.8145163,
+      "tags": {
+        "addr:conscriptionnumber": "27",
+        "addr:country": "CZ",
+        "addr:housenumber": "27",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915586"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311885,
+      "lat": 49.4298726,
+      "lon": 16.8098513,
+      "tags": {
+        "addr:conscriptionnumber": "124",
+        "addr:country": "CZ",
+        "addr:housenumber": "124",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916523"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311894,
+      "lat": 49.4319413,
+      "lon": 16.7972513,
+      "tags": {
+        "addr:conscriptionnumber": "64",
+        "addr:country": "CZ",
+        "addr:housenumber": "64",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915110"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311902,
+      "lat": 49.4322663,
+      "lon": 16.8143637,
+      "tags": {
+        "addr:conscriptionnumber": "53",
+        "addr:country": "CZ",
+        "addr:housenumber": "53",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915837"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311917,
+      "lat": 49.4297288,
+      "lon": 16.8089650,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.5",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "5",
+        "ref:ruian:addr": "7917325"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311918,
+      "lat": 49.4278250,
+      "lon": 16.7987013,
+      "tags": {
+        "addr:conscriptionnumber": "31",
+        "addr:country": "CZ",
+        "addr:housenumber": "31",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914792"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311949,
+      "lat": 49.4309263,
+      "lon": 16.8056000,
+      "tags": {
+        "addr:conscriptionnumber": "152",
+        "addr:country": "CZ",
+        "addr:housenumber": "152",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916809"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311957,
+      "lat": 49.4335413,
+      "lon": 16.8120450,
+      "tags": {
+        "addr:conscriptionnumber": "199",
+        "addr:country": "CZ",
+        "addr:housenumber": "199",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917252"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311972,
+      "lat": 49.4318325,
+      "lon": 16.8050912,
+      "tags": {
+        "addr:conscriptionnumber": "101",
+        "addr:country": "CZ",
+        "addr:housenumber": "101",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916299"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311979,
+      "lat": 49.4318013,
+      "lon": 16.8144725,
+      "tags": {
+        "addr:conscriptionnumber": "38",
+        "addr:country": "CZ",
+        "addr:housenumber": "38",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915691"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311985,
+      "lat": 49.4305876,
+      "lon": 16.8094725,
+      "tags": {
+        "addr:conscriptionnumber": "119",
+        "addr:country": "CZ",
+        "addr:housenumber": "119",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916477"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311995,
+      "lat": 49.4267563,
+      "lon": 16.7982625,
+      "tags": {
+        "addr:conscriptionnumber": "59",
+        "addr:country": "CZ",
+        "addr:housenumber": "59",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915063"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179311999,
+      "lat": 49.4312925,
+      "lon": 16.8074475,
+      "tags": {
+        "addr:conscriptionnumber": "65",
+        "addr:country": "CZ",
+        "addr:housenumber": "65",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915942"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312010,
+      "lat": 49.4335651,
+      "lon": 16.8138438,
+      "tags": {
+        "addr:conscriptionnumber": "4",
+        "addr:country": "CZ",
+        "addr:housenumber": "4",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915357"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312015,
+      "lat": 49.4280350,
+      "lon": 16.7983738,
+      "tags": {
+        "addr:conscriptionnumber": "26",
+        "addr:country": "CZ",
+        "addr:housenumber": "26",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914741"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312018,
+      "lat": 49.4302363,
+      "lon": 16.8065088,
+      "tags": {
+        "addr:conscriptionnumber": "166",
+        "addr:country": "CZ",
+        "addr:housenumber": "166",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916931"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312024,
+      "lat": 49.4277138,
+      "lon": 16.7977775,
+      "tags": {
+        "addr:conscriptionnumber": "39",
+        "addr:country": "CZ",
+        "addr:housenumber": "39",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914873"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312029,
+      "lat": 49.4328275,
+      "lon": 16.8135774,
+      "tags": {
+        "addr:conscriptionnumber": "95",
+        "addr:country": "CZ",
+        "addr:housenumber": "95",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916230"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312036,
+      "lat": 49.4318575,
+      "lon": 16.7959838,
+      "tags": {
+        "addr:conscriptionnumber": "73",
+        "addr:country": "CZ",
+        "addr:housenumber": "73",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915195"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312040,
+      "lat": 49.4323425,
+      "lon": 16.8112325,
+      "tags": {
+        "addr:conscriptionnumber": "130",
+        "addr:country": "CZ",
+        "addr:housenumber": "130",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916582"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312044,
+      "lat": 49.4293063,
+      "lon": 16.7985675,
+      "tags": {
+        "addr:conscriptionnumber": "6",
+        "addr:country": "CZ",
+        "addr:housenumber": "6",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914547"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312050,
+      "lat": 49.4319975,
+      "lon": 16.8082238,
+      "tags": {
+        "addr:conscriptionnumber": "59",
+        "addr:country": "CZ",
+        "addr:housenumber": "59",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915896"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312053,
+      "lat": 49.4323225,
+      "lon": 16.8155763,
+      "tags": {
+        "addr:conscriptionnumber": "12",
+        "addr:country": "CZ",
+        "addr:housenumber": "12",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915438"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312059,
+      "lat": 49.4342626,
+      "lon": 16.8098288,
+      "tags": {
+        "addr:conscriptionnumber": "205",
+        "addr:country": "CZ",
+        "addr:housenumber": "205",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "27764052"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312062,
+      "lat": 49.4275088,
+      "lon": 16.7980299,
+      "tags": {
+        "addr:conscriptionnumber": "34",
+        "addr:country": "CZ",
+        "addr:housenumber": "34",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914822"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312073,
+      "lat": 49.4320413,
+      "lon": 16.8089025,
+      "tags": {
+        "addr:conscriptionnumber": "177",
+        "addr:country": "CZ",
+        "addr:housenumber": "177",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917040"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312075,
+      "lat": 49.4311163,
+      "lon": 16.8072163,
+      "tags": {
+        "addr:conscriptionnumber": "107",
+        "addr:country": "CZ",
+        "addr:housenumber": "107",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916353"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312077,
+      "lat": 49.4310463,
+      "lon": 16.7977963,
+      "tags": {
+        "addr:conscriptionnumber": "68",
+        "addr:country": "CZ",
+        "addr:housenumber": "68",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312088,
+      "lat": 49.4321641,
+      "lon": 16.8098171,
+      "tags": {
+        "addr:conscriptionnumber": "141",
+        "addr:country": "CZ",
+        "addr:housenumber": "141",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916698"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312092,
+      "lat": 49.4310676,
+      "lon": 16.7979638,
+      "tags": {
+        "addr:conscriptionnumber": "17",
+        "addr:country": "CZ",
+        "addr:housenumber": "17",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914652"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312101,
+      "lat": 49.4318550,
+      "lon": 16.8084600,
+      "tags": {
+        "addr:conscriptionnumber": "71",
+        "addr:country": "CZ",
+        "addr:housenumber": "71",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916001"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312104,
+      "lat": 49.4320900,
+      "lon": 16.8059538,
+      "tags": {
+        "addr:conscriptionnumber": "185",
+        "addr:country": "CZ",
+        "addr:housenumber": "185",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "25803409"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312107,
+      "lat": 49.4346976,
+      "lon": 16.8139388,
+      "tags": {
+        "addr:conscriptionnumber": "24",
+        "addr:country": "CZ",
+        "addr:housenumber": "24",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915551"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312119,
+      "lat": 49.4336126,
+      "lon": 16.8108588,
+      "tags": {
+        "addr:conscriptionnumber": "172",
+        "addr:country": "CZ",
+        "addr:housenumber": "172",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916990"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312120,
+      "lat": 49.4297126,
+      "lon": 16.7993363,
+      "tags": {
+        "addr:conscriptionnumber": "45",
+        "addr:country": "CZ",
+        "addr:housenumber": "45",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914920"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312134,
+      "lat": 49.4323075,
+      "lon": 16.8150600,
+      "tags": {
+        "addr:conscriptionnumber": "50",
+        "addr:country": "CZ",
+        "addr:housenumber": "50",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915802"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312137,
+      "lat": 49.4300726,
+      "lon": 16.8117375,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.1",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "1",
+        "ref:ruian:addr": "7917287"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312141,
+      "lat": 49.4311750,
+      "lon": 16.8100563,
+      "tags": {
+        "addr:conscriptionnumber": "136",
+        "addr:country": "CZ",
+        "addr:housenumber": "136",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916647"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312152,
+      "lat": 49.4292963,
+      "lon": 16.7990488,
+      "tags": {
+        "addr:conscriptionnumber": "12",
+        "addr:country": "CZ",
+        "addr:housenumber": "12",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914601"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312155,
+      "lat": 49.4311151,
+      "lon": 16.8064188,
+      "tags": {
+        "addr:conscriptionnumber": "149",
+        "addr:country": "CZ",
+        "addr:housenumber": "149",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916779"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312171,
+      "lat": 49.4322838,
+      "lon": 16.8106738,
+      "tags": {
+        "addr:conscriptionnumber": "179",
+        "addr:country": "CZ",
+        "addr:housenumber": "179",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917066"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312173,
+      "lat": 49.4323038,
+      "lon": 16.8144800,
+      "tags": {
+        "addr:conscriptionnumber": "80",
+        "addr:country": "CZ",
+        "addr:housenumber": "80",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916086"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312190,
+      "lat": 49.4338621,
+      "lon": 16.8151930,
+      "tags": {
+        "addr:conscriptionnumber": "18",
+        "addr:country": "CZ",
+        "addr:housenumber": "18",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915497"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312192,
+      "lat": 49.4304301,
+      "lon": 16.8091075,
+      "tags": {
+        "addr:conscriptionnumber": "116",
+        "addr:country": "CZ",
+        "addr:housenumber": "116",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916442"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312195,
+      "lat": 49.4314525,
+      "lon": 16.7967363,
+      "tags": {
+        "addr:conscriptionnumber": "56",
+        "addr:country": "CZ",
+        "addr:housenumber": "56",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915039"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312209,
+      "lat": 49.4316413,
+      "lon": 16.8141437,
+      "tags": {
+        "addr:conscriptionnumber": "44",
+        "addr:country": "CZ",
+        "addr:housenumber": "44",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915756"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312212,
+      "lat": 49.4264951,
+      "lon": 16.7985299,
+      "tags": {
+        "addr:conscriptionnumber": "74",
+        "addr:country": "CZ",
+        "addr:housenumber": "74",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915209"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312224,
+      "lat": 49.4279375,
+      "lon": 16.7981950,
+      "tags": {
+        "addr:conscriptionnumber": "23",
+        "addr:country": "CZ",
+        "addr:housenumber": "23",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914717"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312229,
+      "lat": 49.4331063,
+      "lon": 16.8103363,
+      "tags": {
+        "addr:conscriptionnumber": "144",
+        "addr:country": "CZ",
+        "addr:housenumber": "144",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916728"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312236,
+      "lat": 49.4307676,
+      "lon": 16.8111650,
+      "tags": {
+        "addr:conscriptionnumber": "191",
+        "addr:country": "CZ",
+        "addr:housenumber": "191",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917171"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312250,
+      "lat": 49.4320000,
+      "lon": 16.8132363,
+      "tags": {
+        "addr:conscriptionnumber": "92",
+        "addr:country": "CZ",
+        "addr:housenumber": "92",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916205"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312256,
+      "lat": 49.4329750,
+      "lon": 16.8145775,
+      "tags": {
+        "addr:conscriptionnumber": "30",
+        "addr:country": "CZ",
+        "addr:housenumber": "30",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915616"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312280,
+      "lat": 49.4313600,
+      "lon": 16.7969863,
+      "tags": {
+        "addr:conscriptionnumber": "51",
+        "addr:country": "CZ",
+        "addr:housenumber": "51",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914989"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312292,
+      "lat": 49.4323613,
+      "lon": 16.8089188,
+      "tags": {
+        "addr:conscriptionnumber": "56",
+        "addr:country": "CZ",
+        "addr:housenumber": "56",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915861"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312312,
+      "lat": 49.4296138,
+      "lon": 16.8084163,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.8",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "8",
+        "ref:ruian:addr": "7917350"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312329,
+      "lat": 49.4303413,
+      "lon": 16.8028725,
+      "tags": {
+        "addr:conscriptionnumber": "18",
+        "addr:country": "CZ",
+        "addr:housenumber": "18",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914661"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312342,
+      "lat": 49.4313638,
+      "lon": 16.8051963,
+      "tags": {
+        "addr:conscriptionnumber": "155",
+        "addr:country": "CZ",
+        "addr:housenumber": "155",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916833"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312350,
+      "lat": 49.4346976,
+      "lon": 16.8151725,
+      "tags": {
+        "addr:conscriptionnumber": "202",
+        "addr:country": "CZ",
+        "addr:housenumber": "202",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917279"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312365,
+      "lat": 49.4317750,
+      "lon": 16.8135088,
+      "tags": {
+        "addr:conscriptionnumber": "87",
+        "addr:country": "CZ",
+        "addr:housenumber": "87",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916159"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312371,
+      "lat": 49.4320700,
+      "lon": 16.8160537,
+      "tags": {
+        "addr:conscriptionnumber": "41",
+        "addr:country": "CZ",
+        "addr:housenumber": "41",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915721"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312394,
+      "lat": 49.4300126,
+      "lon": 16.8096775,
+      "tags": {
+        "addr:conscriptionnumber": "122",
+        "addr:country": "CZ",
+        "addr:housenumber": "122",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916507"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312401,
+      "lat": 49.4302401,
+      "lon": 16.8001837,
+      "tags": {
+        "addr:conscriptionnumber": "62",
+        "addr:country": "CZ",
+        "addr:housenumber": "62",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915098"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312412,
+      "lat": 49.4320600,
+      "lon": 16.8147300,
+      "tags": {
+        "addr:conscriptionnumber": "51",
+        "addr:country": "CZ",
+        "addr:housenumber": "51",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915811"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312421,
+      "lat": 49.4334126,
+      "lon": 16.8148063,
+      "tags": {
+        "addr:conscriptionnumber": "7",
+        "addr:country": "CZ",
+        "addr:housenumber": "7",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915381"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312425,
+      "lat": 49.4280350,
+      "lon": 16.7990163,
+      "tags": {
+        "addr:conscriptionnumber": "29",
+        "addr:country": "CZ",
+        "addr:housenumber": "29",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914776"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312439,
+      "lat": 49.4336788,
+      "lon": 16.8116363,
+      "tags": {
+        "addr:conscriptionnumber": "169",
+        "addr:country": "CZ",
+        "addr:housenumber": "169",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916965"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312445,
+      "lat": 49.4332450,
+      "lon": 16.8141525,
+      "tags": {
+        "addr:conscriptionnumber": "197",
+        "addr:country": "CZ",
+        "addr:housenumber": "197",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917236"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312466,
+      "lat": 49.4315388,
+      "lon": 16.8133250,
+      "tags": {
+        "addr:conscriptionnumber": "98",
+        "addr:country": "CZ",
+        "addr:housenumber": "98",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916264"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312470,
+      "lat": 49.4321550,
+      "lon": 16.8141363,
+      "tags": {
+        "addr:conscriptionnumber": "36",
+        "addr:country": "CZ",
+        "addr:housenumber": "36",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915675"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312475,
+      "lat": 49.4294863,
+      "lon": 16.8109200,
+      "tags": {
+        "addr:conscriptionnumber": "133",
+        "addr:country": "CZ",
+        "addr:housenumber": "133",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916612"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312492,
+      "lat": 49.4292986,
+      "lon": 16.7993893,
+      "tags": {
+        "addr:conscriptionnumber": "9",
+        "addr:country": "CZ",
+        "addr:housenumber": "9",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914571"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312502,
+      "lat": 49.4316388,
+      "lon": 16.8076138,
+      "tags": {
+        "addr:conscriptionnumber": "62",
+        "addr:country": "CZ",
+        "addr:housenumber": "62",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915926"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312518,
+      "lat": 49.4341307,
+      "lon": 16.8135633,
+      "tags": {
+        "addr:conscriptionnumber": "2",
+        "addr:country": "CZ",
+        "addr:housenumber": "2",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915331"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312521,
+      "lat": 49.4330963,
+      "lon": 16.8155513,
+      "tags": {
+        "addr:conscriptionnumber": "15",
+        "addr:country": "CZ",
+        "addr:housenumber": "15",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915462"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312525,
+      "lat": 49.4327700,
+      "lon": 16.8109763,
+      "tags": {
+        "addr:conscriptionnumber": "164",
+        "addr:country": "CZ",
+        "addr:housenumber": "164",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916914"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312537,
+      "lat": 49.4288788,
+      "lon": 16.8001925,
+      "tags": {
+        "addr:conscriptionnumber": "37",
+        "addr:country": "CZ",
+        "addr:housenumber": "37",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914857"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312542,
+      "lat": 49.4316225,
+      "lon": 16.8132150,
+      "tags": {
+        "addr:conscriptionnumber": "110",
+        "addr:country": "CZ",
+        "addr:housenumber": "110",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916388"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312554,
+      "lat": 49.4317189,
+      "lon": 16.7960250,
+      "tags": {
+        "addr:conscriptionnumber": "71",
+        "addr:country": "CZ",
+        "addr:housenumber": "71",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915179"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312557,
+      "lat": 49.4296113,
+      "lon": 16.8102025,
+      "tags": {
+        "addr:conscriptionnumber": "128",
+        "addr:country": "CZ",
+        "addr:housenumber": "128",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916566"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312565,
+      "lat": 49.4298717,
+      "lon": 16.7987638,
+      "tags": {
+        "addr:conscriptionnumber": "4",
+        "addr:country": "CZ",
+        "addr:housenumber": "4",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914521"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312573,
+      "lat": 49.4326325,
+      "lon": 16.8123212,
+      "tags": {
+        "addr:conscriptionnumber": "74",
+        "addr:country": "CZ",
+        "addr:housenumber": "74",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916035"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312580,
+      "lat": 49.4327675,
+      "lon": 16.8149913,
+      "tags": {
+        "addr:conscriptionnumber": "10",
+        "addr:country": "CZ",
+        "addr:housenumber": "10",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915411"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312583,
+      "lat": 49.4326175,
+      "lon": 16.8154888,
+      "tags": {
+        "addr:conscriptionnumber": "203",
+        "addr:country": "CZ",
+        "addr:housenumber": "203",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "25349813"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312586,
+      "lat": 49.4272113,
+      "lon": 16.7986725,
+      "tags": {
+        "addr:conscriptionnumber": "48",
+        "addr:country": "CZ",
+        "addr:housenumber": "48",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914954"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312602,
+      "lat": 49.4325850,
+      "lon": 16.8105813,
+      "tags": {
+        "addr:conscriptionnumber": "175",
+        "addr:country": "CZ",
+        "addr:housenumber": "175",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917023"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312607,
+      "lat": 49.4327925,
+      "lon": 16.8096988,
+      "tags": {
+        "addr:conscriptionnumber": "105",
+        "addr:country": "CZ",
+        "addr:housenumber": "105",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916337"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312610,
+      "lat": 49.4303926,
+      "lon": 16.8007663,
+      "tags": {
+        "addr:conscriptionnumber": "66",
+        "addr:country": "CZ",
+        "addr:housenumber": "66",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915136"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312619,
+      "lat": 49.4314138,
+      "lon": 16.8094000,
+      "tags": {
+        "addr:conscriptionnumber": "139",
+        "addr:country": "CZ",
+        "addr:housenumber": "139",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916671"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312621,
+      "lat": 49.4289963,
+      "lon": 16.7996413,
+      "tags": {
+        "addr:conscriptionnumber": "15",
+        "addr:country": "CZ",
+        "addr:housenumber": "15",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914636"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312637,
+      "lat": 49.4308601,
+      "lon": 16.8083450,
+      "tags": {
+        "addr:conscriptionnumber": "183",
+        "addr:country": "CZ",
+        "addr:housenumber": "183",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312642,
+      "lat": 49.4315275,
+      "lon": 16.8095975,
+      "tags": {
+        "addr:conscriptionnumber": "69",
+        "addr:country": "CZ",
+        "addr:housenumber": "69",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915985"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312645,
+      "lat": 49.4314550,
+      "lon": 16.8138937,
+      "tags": {
+        "addr:conscriptionnumber": "84",
+        "addr:country": "CZ",
+        "addr:housenumber": "84",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916124"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312659,
+      "lat": 49.4348364,
+      "lon": 16.8151642,
+      "tags": {
+        "addr:conscriptionnumber": "22",
+        "addr:country": "CZ",
+        "addr:housenumber": "22",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915535"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312662,
+      "lat": 49.4335526,
+      "lon": 16.8114475,
+      "tags": {
+        "addr:conscriptionnumber": "170",
+        "addr:country": "CZ",
+        "addr:housenumber": "170",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916973"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312680,
+      "lat": 49.4266600,
+      "lon": 16.7985750,
+      "tags": {
+        "addr:conscriptionnumber": "43",
+        "addr:country": "CZ",
+        "addr:housenumber": "43",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914911"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312685,
+      "lat": 49.4319213,
+      "lon": 16.8147938,
+      "tags": {
+        "addr:conscriptionnumber": "47",
+        "addr:country": "CZ",
+        "addr:housenumber": "47",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915781"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312691,
+      "lat": 49.4279135,
+      "lon": 16.7985918,
+      "tags": {
+        "addr:conscriptionnumber": "78",
+        "addr:country": "CZ",
+        "addr:housenumber": "78",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "27297730"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312694,
+      "lat": 49.4295126,
+      "lon": 16.7995788,
+      "tags": {
+        "addr:conscriptionnumber": "10",
+        "addr:country": "CZ",
+        "addr:housenumber": "10",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914580"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312696,
+      "lat": 49.4342801,
+      "lon": 16.8125213,
+      "tags": {
+        "addr:conscriptionnumber": "147",
+        "addr:country": "CZ",
+        "addr:housenumber": "147",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916752"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312706,
+      "lat": 49.4353411,
+      "lon": 16.8145411,
+      "tags": {
+        "addr:conscriptionnumber": "194",
+        "addr:country": "CZ",
+        "addr:housenumber": "194",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917201"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312710,
+      "lat": 49.4335163,
+      "lon": 16.8094650,
+      "tags": {
+        "addr:conscriptionnumber": "78",
+        "addr:country": "CZ",
+        "addr:housenumber": "78",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916060"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312717,
+      "lat": 49.4325525,
+      "lon": 16.8138300,
+      "tags": {
+        "addr:conscriptionnumber": "33",
+        "addr:country": "CZ",
+        "addr:housenumber": "33",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915641"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312719,
+      "lat": 49.4305388,
+      "lon": 16.8089525,
+      "tags": {
+        "addr:conscriptionnumber": "114",
+        "addr:country": "CZ",
+        "addr:housenumber": "114",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916426"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312721,
+      "lat": 49.4273950,
+      "lon": 16.7975150,
+      "tags": {
+        "addr:conscriptionnumber": "54",
+        "addr:country": "CZ",
+        "addr:housenumber": "54",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915012"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312727,
+      "lat": 49.4323238,
+      "lon": 16.8134263,
+      "tags": {
+        "addr:conscriptionnumber": "42",
+        "addr:country": "CZ",
+        "addr:housenumber": "42",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915730"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312735,
+      "lat": 49.4297801,
+      "lon": 16.8080438,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.21",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "21",
+        "ref:ruian:addr": "7917406"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312739,
+      "lat": 49.4268000,
+      "lon": 16.7989763,
+      "tags": {
+        "addr:conscriptionnumber": "21",
+        "addr:country": "CZ",
+        "addr:housenumber": "21",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914695"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312746,
+      "lat": 49.4329400,
+      "lon": 16.8137625,
+      "tags": {
+        "addr:conscriptionnumber": "189",
+        "addr:country": "CZ",
+        "addr:housenumber": "189",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917155"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312747,
+      "lat": 49.4329188,
+      "lon": 16.8112450,
+      "tags": {
+        "addr:conscriptionnumber": "161",
+        "addr:country": "CZ",
+        "addr:housenumber": "161",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916884"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312754,
+      "lat": 49.4311663,
+      "lon": 16.8140650,
+      "tags": {
+        "addr:conscriptionnumber": "90",
+        "addr:country": "CZ",
+        "addr:housenumber": "90",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916183"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312759,
+      "lat": 49.4300188,
+      "lon": 16.8102263,
+      "tags": {
+        "addr:conscriptionnumber": "125",
+        "addr:country": "CZ",
+        "addr:housenumber": "125",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916531"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312764,
+      "lat": 49.4321563,
+      "lon": 16.7966475,
+      "tags": {
+        "addr:conscriptionnumber": "65",
+        "addr:country": "CZ",
+        "addr:housenumber": "65",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915128"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312769,
+      "lat": 49.4318938,
+      "lon": 16.8160088,
+      "tags": {
+        "addr:conscriptionnumber": "54",
+        "addr:country": "CZ",
+        "addr:housenumber": "54",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915845"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312775,
+      "lat": 49.4295826,
+      "lon": 16.8088749,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.6",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "6",
+        "ref:ruian:addr": "7917333"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312776,
+      "lat": 49.4277750,
+      "lon": 16.7985250,
+      "tags": {
+        "addr:conscriptionnumber": "32",
+        "addr:country": "CZ",
+        "addr:housenumber": "32",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914806"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312777,
+      "lat": 49.4310576,
+      "lon": 16.8054563,
+      "tags": {
+        "addr:conscriptionnumber": "153",
+        "addr:country": "CZ",
+        "addr:housenumber": "153",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916817"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312786,
+      "lat": 49.4306026,
+      "lon": 16.8078813,
+      "tags": {
+        "addr:conscriptionnumber": "200",
+        "addr:country": "CZ",
+        "addr:housenumber": "200",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "25349805"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312788,
+      "lat": 49.4320675,
+      "lon": 16.8120388,
+      "tags": {
+        "addr:conscriptionnumber": "102",
+        "addr:country": "CZ",
+        "addr:housenumber": "102",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312789,
+      "lat": 49.4324263,
+      "lon": 16.8139725,
+      "tags": {
+        "addr:conscriptionnumber": "39",
+        "addr:country": "CZ",
+        "addr:housenumber": "39",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915705"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312790,
+      "lat": 49.4301113,
+      "lon": 16.8094875,
+      "tags": {
+        "addr:conscriptionnumber": "120",
+        "addr:country": "CZ",
+        "addr:housenumber": "120",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916485"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312798,
+      "lat": 49.4309288,
+      "lon": 16.7974100,
+      "tags": {
+        "addr:conscriptionnumber": "60",
+        "addr:country": "CZ",
+        "addr:housenumber": "60",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915071"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312801,
+      "lat": 49.4316063,
+      "lon": 16.8080613,
+      "tags": {
+        "addr:conscriptionnumber": "66",
+        "addr:country": "CZ",
+        "addr:housenumber": "66",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915951"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312805,
+      "lat": 49.4334288,
+      "lon": 16.8140513,
+      "tags": {
+        "addr:conscriptionnumber": "5",
+        "addr:country": "CZ",
+        "addr:housenumber": "5",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915365"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312819,
+      "lat": 49.4294203,
+      "lon": 16.7994500,
+      "tags": {
+        "addr:conscriptionnumber": "27",
+        "addr:country": "CZ",
+        "addr:housenumber": "27",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914750"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312823,
+      "lat": 49.4304188,
+      "lon": 16.8070263,
+      "tags": {
+        "addr:conscriptionnumber": "167",
+        "addr:country": "CZ",
+        "addr:housenumber": "167",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916949"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312831,
+      "lat": 49.4306013,
+      "lon": 16.8114100,
+      "tags": {
+        "addr:conscriptionnumber": "195",
+        "addr:country": "CZ",
+        "addr:housenumber": "195",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917210"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312835,
+      "lat": 49.4288350,
+      "lon": 16.7994525,
+      "tags": {
+        "addr:conscriptionnumber": "40",
+        "addr:country": "CZ",
+        "addr:housenumber": "40",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914881"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312839,
+      "lat": 49.4312663,
+      "lon": 16.8135050,
+      "tags": {
+        "addr:conscriptionnumber": "96",
+        "addr:country": "CZ",
+        "addr:housenumber": "96",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916248"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312846,
+      "lat": 49.4326850,
+      "lon": 16.8140713,
+      "tags": {
+        "addr:conscriptionnumber": "34",
+        "addr:country": "CZ",
+        "addr:housenumber": "34",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915659"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312853,
+      "lat": 49.4296476,
+      "lon": 16.8107063,
+      "tags": {
+        "addr:conscriptionnumber": "131",
+        "addr:country": "CZ",
+        "addr:housenumber": "131",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916591"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312872,
+      "lat": 49.4284256,
+      "lon": 16.7989395,
+      "tags": {
+        "addr:conscriptionnumber": "7",
+        "addr:country": "CZ",
+        "addr:housenumber": "7",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914555"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312877,
+      "lat": 49.4319200,
+      "lon": 16.8080925,
+      "tags": {
+        "addr:conscriptionnumber": "60",
+        "addr:country": "CZ",
+        "addr:housenumber": "60",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915900"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312879,
+      "lat": 49.4327070,
+      "lon": 16.8159155,
+      "tags": {
+        "addr:conscriptionnumber": "13",
+        "addr:country": "CZ",
+        "addr:housenumber": "13",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915446"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312892,
+      "lat": 49.4328763,
+      "lon": 16.8111488,
+      "tags": {
+        "addr:conscriptionnumber": "162",
+        "addr:country": "CZ",
+        "addr:housenumber": "162",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916892"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312895,
+      "lat": 49.4297288,
+      "lon": 16.8068038,
+      "tags": {
+        "addr:conscriptionnumber": "206",
+        "addr:country": "CZ",
+        "addr:housenumber": "206",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "27929175"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312904,
+      "lat": 49.4276800,
+      "lon": 16.7983625,
+      "tags": {
+        "addr:conscriptionnumber": "35",
+        "addr:country": "CZ",
+        "addr:housenumber": "35",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914831"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312924,
+      "lat": 49.4294601,
+      "lon": 16.7986375,
+      "tags": {
+        "addr:conscriptionnumber": "69",
+        "addr:country": "CZ",
+        "addr:housenumber": "69",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "26942933"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312932,
+      "lat": 49.4328988,
+      "lon": 16.8099138,
+      "tags": {
+        "addr:conscriptionnumber": "142",
+        "addr:country": "CZ",
+        "addr:housenumber": "142",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916701"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312936,
+      "lat": 49.4303035,
+      "lon": 16.7990735,
+      "tags": {
+        "addr:conscriptionnumber": "2",
+        "addr:country": "CZ",
+        "addr:housenumber": "2",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914504"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312945,
+      "lat": 49.4321825,
+      "lon": 16.8090825,
+      "tags": {
+        "addr:conscriptionnumber": "72",
+        "addr:country": "CZ",
+        "addr:housenumber": "72",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916019"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312947,
+      "lat": 49.4326325,
+      "lon": 16.8093888,
+      "tags": {
+        "addr:conscriptionnumber": "186",
+        "addr:country": "CZ",
+        "addr:housenumber": "186",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917121"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312959,
+      "lat": 49.4349763,
+      "lon": 16.8136977,
+      "tags": {
+        "addr:conscriptionnumber": "25",
+        "addr:country": "CZ",
+        "addr:housenumber": "25",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915560"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312962,
+      "lat": 49.4326850,
+      "lon": 16.8107675,
+      "tags": {
+        "addr:conscriptionnumber": "173",
+        "addr:country": "CZ",
+        "addr:housenumber": "173",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917007"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312965,
+      "lat": 49.4298938,
+      "lon": 16.7995900,
+      "tags": {
+        "addr:conscriptionnumber": "46",
+        "addr:country": "CZ",
+        "addr:housenumber": "46",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914938"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312985,
+      "lat": 49.4314895,
+      "lon": 16.8072428,
+      "tags": {
+        "addr:conscriptionnumber": "103",
+        "addr:country": "CZ",
+        "addr:housenumber": "103",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916311"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179312989,
+      "lat": 49.4300638,
+      "lon": 16.8113238,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.3",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "3",
+        "ref:ruian:addr": "7917309"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313005,
+      "lat": 49.4312675,
+      "lon": 16.8102188,
+      "tags": {
+        "addr:conscriptionnumber": "137",
+        "addr:country": "CZ",
+        "addr:housenumber": "137",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916655"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313015,
+      "lat": 49.4283163,
+      "lon": 16.7995713,
+      "tags": {
+        "addr:conscriptionnumber": "13",
+        "addr:country": "CZ",
+        "addr:housenumber": "13",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914610"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313022,
+      "lat": 49.4311076,
+      "lon": 16.8060950,
+      "tags": {
+        "addr:conscriptionnumber": "150",
+        "addr:country": "CZ",
+        "addr:housenumber": "150",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916787"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313034,
+      "lat": 49.4315263,
+      "lon": 16.8107075,
+      "tags": {
+        "addr:conscriptionnumber": "180",
+        "addr:country": "CZ",
+        "addr:housenumber": "180",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917074"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313039,
+      "lat": 49.4313488,
+      "lon": 16.8142775,
+      "tags": {
+        "addr:conscriptionnumber": "82",
+        "addr:country": "CZ",
+        "addr:housenumber": "82",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916108"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313048,
+      "lat": 49.4343066,
+      "lon": 16.8151627,
+      "tags": {
+        "addr:conscriptionnumber": "20",
+        "addr:country": "CZ",
+        "addr:housenumber": "20",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915519"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313053,
+      "lat": 49.4307288,
+      "lon": 16.8092938,
+      "tags": {
+        "addr:conscriptionnumber": "117",
+        "addr:country": "CZ",
+        "addr:housenumber": "117",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916451"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313070,
+      "lat": 49.4272763,
+      "lon": 16.7977563,
+      "tags": {
+        "addr:conscriptionnumber": "57",
+        "addr:country": "CZ",
+        "addr:housenumber": "57",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915047"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313075,
+      "lat": 49.4321663,
+      "lon": 16.8145688,
+      "tags": {
+        "addr:conscriptionnumber": "45",
+        "addr:country": "CZ",
+        "addr:housenumber": "45",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915764"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313084,
+      "lat": 49.4310351,
+      "lon": 16.7972213,
+      "tags": {
+        "addr:conscriptionnumber": "75",
+        "addr:country": "CZ",
+        "addr:housenumber": "75",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915217"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313087,
+      "lat": 49.4324975,
+      "lon": 16.7959963,
+      "tags": {
+        "addr:conscriptionnumber": "24",
+        "addr:country": "CZ",
+        "addr:housenumber": "24",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914725"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313088,
+      "lat": 49.4332025,
+      "lon": 16.8105200,
+      "tags": {
+        "addr:conscriptionnumber": "145",
+        "addr:country": "CZ",
+        "addr:housenumber": "145",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916736"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313096,
+      "lat": 49.4309788,
+      "lon": 16.8096675,
+      "tags": {
+        "addr:conscriptionnumber": "192",
+        "addr:country": "CZ",
+        "addr:housenumber": "192",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917180"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313099,
+      "lat": 49.4321588,
+      "lon": 16.8123488,
+      "tags": {
+        "addr:conscriptionnumber": "93",
+        "addr:country": "CZ",
+        "addr:housenumber": "93",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916213"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313108,
+      "lat": 49.4324100,
+      "lon": 16.8159713,
+      "tags": {
+        "addr:conscriptionnumber": "31",
+        "addr:country": "CZ",
+        "addr:housenumber": "31",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915624"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313111,
+      "lat": 49.4318725,
+      "lon": 16.8115400,
+      "tags": {
+        "addr:conscriptionnumber": "112",
+        "addr:country": "CZ",
+        "addr:housenumber": "112",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313113,
+      "lat": 49.4270625,
+      "lon": 16.7984763,
+      "tags": {
+        "addr:conscriptionnumber": "52",
+        "addr:country": "CZ",
+        "addr:housenumber": "52",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914997"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313124,
+      "lat": 49.4322125,
+      "lon": 16.8086450,
+      "tags": {
+        "addr:conscriptionnumber": "57",
+        "addr:country": "CZ",
+        "addr:housenumber": "57",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915870"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313128,
+      "lat": 49.4298863,
+      "lon": 16.8079875,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.14",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "14",
+        "ref:ruian:addr": "7917368"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313138,
+      "lat": 49.4280913,
+      "lon": 16.7993800,
+      "tags": {
+        "addr:conscriptionnumber": "19",
+        "addr:country": "CZ",
+        "addr:housenumber": "19",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914679"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313141,
+      "lat": 49.4330600,
+      "lon": 16.8139338,
+      "tags": {
+        "addr:conscriptionnumber": "187",
+        "addr:country": "CZ",
+        "addr:housenumber": "187",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917139"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313150,
+      "lat": 49.4315500,
+      "lon": 16.8057863,
+      "tags": {
+        "addr:conscriptionnumber": "157",
+        "addr:country": "CZ",
+        "addr:housenumber": "157",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916841"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313152,
+      "lat": 49.4318813,
+      "lon": 16.8133725,
+      "tags": {
+        "addr:conscriptionnumber": "88",
+        "addr:country": "CZ",
+        "addr:housenumber": "88",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916167"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313155,
+      "lat": 49.4345457,
+      "lon": 16.8134366,
+      "tags": {
+        "addr:conscriptionnumber": "26",
+        "addr:country": "CZ",
+        "addr:housenumber": "26",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915578"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313163,
+      "lat": 49.4303238,
+      "lon": 16.8098325,
+      "tags": {
+        "addr:conscriptionnumber": "123",
+        "addr:country": "CZ",
+        "addr:housenumber": "123",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916515"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313166,
+      "lat": 49.4316400,
+      "lon": 16.7969663,
+      "tags": {
+        "addr:conscriptionnumber": "63",
+        "addr:country": "CZ",
+        "addr:housenumber": "63",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915101"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313182,
+      "lat": 49.4315338,
+      "lon": 16.8142525,
+      "tags": {
+        "addr:conscriptionnumber": "52",
+        "addr:country": "CZ",
+        "addr:housenumber": "52",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915829"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313184,
+      "lat": 49.4331725,
+      "lon": 16.8150250,
+      "tags": {
+        "addr:conscriptionnumber": "8",
+        "addr:country": "CZ",
+        "addr:housenumber": "8",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915390"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313186,
+      "lat": 49.4279463,
+      "lon": 16.7988462,
+      "tags": {
+        "addr:conscriptionnumber": "30",
+        "addr:country": "CZ",
+        "addr:housenumber": "30",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914784"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313190,
+      "lat": 49.4309226,
+      "lon": 16.8060488,
+      "tags": {
+        "addr:conscriptionnumber": "151",
+        "addr:country": "CZ",
+        "addr:housenumber": "151",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916795"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313192,
+      "lat": 49.4334526,
+      "lon": 16.8118588,
+      "tags": {
+        "addr:conscriptionnumber": "198",
+        "addr:country": "CZ",
+        "addr:housenumber": "198",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917244"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313194,
+      "lat": 49.4321050,
+      "lon": 16.8156400,
+      "tags": {
+        "addr:conscriptionnumber": "100",
+        "addr:country": "CZ",
+        "addr:housenumber": "100",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916281"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313196,
+      "lat": 49.4320325,
+      "lon": 16.8142225,
+      "tags": {
+        "addr:conscriptionnumber": "37",
+        "addr:country": "CZ",
+        "addr:housenumber": "37",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915683"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313199,
+      "lat": 49.4299076,
+      "lon": 16.8083813,
+      "tags": {
+        "addr:conscriptionnumber": "134",
+        "addr:country": "CZ",
+        "addr:housenumber": "134",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916621"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313210,
+      "lat": 49.4272300,
+      "lon": 16.7971975,
+      "tags": {
+        "addr:conscriptionnumber": "58",
+        "addr:country": "CZ",
+        "addr:housenumber": "58",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915055"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313212,
+      "lat": 49.4315588,
+      "lon": 16.8074238,
+      "tags": {
+        "addr:conscriptionnumber": "63",
+        "addr:country": "CZ",
+        "addr:housenumber": "63",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915934"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313218,
+      "lat": 49.4338954,
+      "lon": 16.8138649,
+      "tags": {
+        "addr:conscriptionnumber": "3",
+        "addr:country": "CZ",
+        "addr:housenumber": "3",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915349"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313221,
+      "lat": 49.4332288,
+      "lon": 16.8153613,
+      "tags": {
+        "addr:conscriptionnumber": "16",
+        "addr:country": "CZ",
+        "addr:housenumber": "16",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915471"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313224,
+      "lat": 49.4305401,
+      "lon": 16.8061563,
+      "tags": {
+        "addr:conscriptionnumber": "165",
+        "addr:country": "CZ",
+        "addr:housenumber": "165",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916922"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313227,
+      "lat": 49.4278088,
+      "lon": 16.7979438,
+      "tags": {
+        "addr:conscriptionnumber": "38",
+        "addr:country": "CZ",
+        "addr:housenumber": "38",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914865"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313230,
+      "lat": 49.4311201,
+      "lon": 16.8136725,
+      "tags": {
+        "addr:conscriptionnumber": "94",
+        "addr:country": "CZ",
+        "addr:housenumber": "94",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916221"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313242,
+      "lat": 49.4299738,
+      "lon": 16.8008475,
+      "tags": {
+        "addr:conscriptionnumber": "72",
+        "addr:country": "CZ",
+        "addr:housenumber": "72",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313243,
+      "lat": 49.4298001,
+      "lon": 16.8105225,
+      "tags": {
+        "addr:conscriptionnumber": "129",
+        "addr:country": "CZ",
+        "addr:housenumber": "129",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916574"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313247,
+      "lat": 49.4296821,
+      "lon": 16.7987031,
+      "tags": {
+        "addr:conscriptionnumber": "5",
+        "addr:country": "CZ",
+        "addr:housenumber": "5",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914539"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313250,
+      "lat": 49.4318013,
+      "lon": 16.8141025,
+      "tags": {
+        "addr:conscriptionnumber": "75",
+        "addr:country": "CZ",
+        "addr:housenumber": "75",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916043"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313253,
+      "lat": 49.4324538,
+      "lon": 16.8150225,
+      "tags": {
+        "addr:conscriptionnumber": "11",
+        "addr:country": "CZ",
+        "addr:housenumber": "11",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915420"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313257,
+      "lat": 49.4325413,
+      "lon": 16.8104838,
+      "tags": {
+        "addr:conscriptionnumber": "176",
+        "addr:country": "CZ",
+        "addr:housenumber": "176",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917031"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313262,
+      "lat": 49.4340776,
+      "lon": 16.8151825,
+      "tags": {
+        "addr:conscriptionnumber": "204",
+        "addr:country": "CZ",
+        "addr:housenumber": "204",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "27297748"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313273,
+      "lat": 49.4274000,
+      "lon": 16.7988762,
+      "tags": {
+        "addr:conscriptionnumber": "49",
+        "addr:country": "CZ",
+        "addr:housenumber": "49",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914962"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313275,
+      "lat": 49.4320038,
+      "lon": 16.8145788,
+      "tags": {
+        "addr:conscriptionnumber": "106",
+        "addr:country": "CZ",
+        "addr:housenumber": "106",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916345"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313284,
+      "lat": 49.4303101,
+      "lon": 16.8004913,
+      "tags": {
+        "addr:conscriptionnumber": "67",
+        "addr:country": "CZ",
+        "addr:housenumber": "67",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915144"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313286,
+      "lat": 49.4321938,
+      "lon": 16.8164813,
+      "tags": {
+        "addr:conscriptionnumber": "140",
+        "addr:country": "CZ",
+        "addr:housenumber": "140",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916680"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313287,
+      "lat": 49.4281963,
+      "lon": 16.7991338,
+      "tags": {
+        "addr:conscriptionnumber": "16",
+        "addr:country": "CZ",
+        "addr:housenumber": "16",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914644"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313296,
+      "lat": 49.4313213,
+      "lon": 16.8078163,
+      "tags": {
+        "addr:conscriptionnumber": "70",
+        "addr:country": "CZ",
+        "addr:housenumber": "70",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915993"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313299,
+      "lat": 49.4324725,
+      "lon": 16.8102163,
+      "tags": {
+        "addr:conscriptionnumber": "184",
+        "addr:country": "CZ",
+        "addr:housenumber": "184",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917112"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313309,
+      "lat": 49.4315563,
+      "lon": 16.8137363,
+      "tags": {
+        "addr:conscriptionnumber": "85",
+        "addr:country": "CZ",
+        "addr:housenumber": "85",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916132"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313312,
+      "lat": 49.4350492,
+      "lon": 16.8146222,
+      "tags": {
+        "addr:conscriptionnumber": "23",
+        "addr:country": "CZ",
+        "addr:housenumber": "23",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915543"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313318,
+      "lat": 49.4334726,
+      "lon": 16.8112288,
+      "tags": {
+        "addr:conscriptionnumber": "171",
+        "addr:country": "CZ",
+        "addr:housenumber": "171",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916981"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313322,
+      "lat": 49.4296138,
+      "lon": 16.7997463,
+      "tags": {
+        "addr:conscriptionnumber": "44",
+        "addr:country": "CZ",
+        "addr:housenumber": "44",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "26942925"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313325,
+      "lat": 49.4318813,
+      "lon": 16.8139213,
+      "tags": {
+        "addr:conscriptionnumber": "48",
+        "addr:country": "CZ",
+        "addr:housenumber": "48",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915799"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313332,
+      "lat": 49.4305263,
+      "lon": 16.8011488,
+      "tags": {
+        "addr:conscriptionnumber": "79",
+        "addr:country": "CZ",
+        "addr:housenumber": "79",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "27929183"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313333,
+      "lat": 49.4310738,
+      "lon": 16.8099075,
+      "tags": {
+        "addr:conscriptionnumber": "135",
+        "addr:country": "CZ",
+        "addr:housenumber": "135",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916639"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313341,
+      "lat": 49.4301738,
+      "lon": 16.7997800,
+      "tags": {
+        "addr:conscriptionnumber": "11",
+        "addr:country": "CZ",
+        "addr:housenumber": "11",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914598"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313342,
+      "lat": 49.4313050,
+      "lon": 16.8065200,
+      "tags": {
+        "addr:conscriptionnumber": "148",
+        "addr:country": "CZ",
+        "addr:housenumber": "148",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916761"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313343,
+      "lat": 49.4323925,
+      "lon": 16.8117250,
+      "tags": {
+        "addr:conscriptionnumber": "178",
+        "addr:country": "CZ",
+        "addr:housenumber": "178",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917058"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313348,
+      "lat": 49.4322638,
+      "lon": 16.8087500,
+      "tags": {
+        "addr:conscriptionnumber": "79",
+        "addr:country": "CZ",
+        "addr:housenumber": "79",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916078"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313349,
+      "lat": 49.4335656,
+      "lon": 16.8152077,
+      "tags": {
+        "addr:conscriptionnumber": "17",
+        "addr:country": "CZ",
+        "addr:housenumber": "17",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915489"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313350,
+      "lat": 49.4301876,
+      "lon": 16.8100013,
+      "tags": {
+        "addr:conscriptionnumber": "115",
+        "addr:country": "CZ",
+        "addr:housenumber": "115",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916434"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313351,
+      "lat": 49.4307663,
+      "lon": 16.7976474,
+      "tags": {
+        "addr:conscriptionnumber": "55",
+        "addr:country": "CZ",
+        "addr:housenumber": "55",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915021"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313354,
+      "lat": 49.4321238,
+      "lon": 16.8137238,
+      "tags": {
+        "addr:conscriptionnumber": "43",
+        "addr:country": "CZ",
+        "addr:housenumber": "43",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915748"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313357,
+      "lat": 49.4322363,
+      "lon": 16.8051488,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.31",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "31",
+        "ref:ruian:addr": "7917422"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313359,
+      "lat": 49.4282190,
+      "lon": 16.7985164,
+      "tags": {
+        "addr:conscriptionnumber": "22",
+        "addr:country": "CZ",
+        "addr:housenumber": "22",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914709"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313362,
+      "lat": 49.4330050,
+      "lon": 16.8101350,
+      "tags": {
+        "addr:conscriptionnumber": "143",
+        "addr:country": "CZ",
+        "addr:housenumber": "143",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916710"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313363,
+      "lat": 49.4302226,
+      "lon": 16.8068963,
+      "tags": {
+        "addr:conscriptionnumber": "190",
+        "addr:country": "CZ",
+        "addr:housenumber": "190",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917163"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313370,
+      "lat": 49.4310763,
+      "lon": 16.8137875,
+      "tags": {
+        "addr:conscriptionnumber": "91",
+        "addr:country": "CZ",
+        "addr:housenumber": "91",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916191"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313372,
+      "lat": 49.4325200,
+      "lon": 16.8159463,
+      "tags": {
+        "addr:conscriptionnumber": "29",
+        "addr:country": "CZ",
+        "addr:housenumber": "29",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915608"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313373,
+      "lat": 49.4297326,
+      "lon": 16.8100275,
+      "tags": {
+        "addr:conscriptionnumber": "126",
+        "addr:country": "CZ",
+        "addr:housenumber": "126",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916540"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313378,
+      "lat": 49.4312613,
+      "lon": 16.7971625,
+      "tags": {
+        "addr:conscriptionnumber": "50",
+        "addr:country": "CZ",
+        "addr:housenumber": "50",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914971"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313380,
+      "lat": 49.4331438,
+      "lon": 16.8160775,
+      "tags": {
+        "addr:conscriptionnumber": "55",
+        "addr:country": "CZ",
+        "addr:housenumber": "55",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915853"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313384,
+      "lat": 49.4299738,
+      "lon": 16.8086850,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.7",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "7",
+        "ref:ruian:addr": "7917341"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313386,
+      "lat": 49.4275963,
+      "lon": 16.7981775,
+      "tags": {
+        "addr:conscriptionnumber": "33",
+        "addr:country": "CZ",
+        "addr:housenumber": "33",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914814"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313387,
+      "lat": 49.4307388,
+      "lon": 16.8081549,
+      "tags": {
+        "addr:conscriptionnumber": "201",
+        "addr:country": "CZ",
+        "addr:housenumber": "201",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917261"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313394,
+      "lat": 49.4312513,
+      "lon": 16.8053688,
+      "tags": {
+        "addr:conscriptionnumber": "154",
+        "addr:country": "CZ",
+        "addr:housenumber": "154",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916825"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313395,
+      "lat": 49.4316650,
+      "lon": 16.8136175,
+      "tags": {
+        "addr:conscriptionnumber": "86",
+        "addr:country": "CZ",
+        "addr:housenumber": "86",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916141"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313401,
+      "lat": 49.4319163,
+      "lon": 16.8143375,
+      "tags": {
+        "addr:conscriptionnumber": "40",
+        "addr:country": "CZ",
+        "addr:housenumber": "40",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915713"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313404,
+      "lat": 49.4304576,
+      "lon": 16.8096538,
+      "tags": {
+        "addr:conscriptionnumber": "121",
+        "addr:country": "CZ",
+        "addr:housenumber": "121",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916493"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313405,
+      "lat": 49.4304201,
+      "lon": 16.8000075,
+      "tags": {
+        "addr:conscriptionnumber": "61",
+        "addr:country": "CZ",
+        "addr:housenumber": "61",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915080"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313408,
+      "lat": 49.4317550,
+      "lon": 16.8082925,
+      "tags": {
+        "addr:conscriptionnumber": "67",
+        "addr:country": "CZ",
+        "addr:housenumber": "67",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915969"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313411,
+      "lat": 49.4328300,
+      "lon": 16.8147438,
+      "tags": {
+        "addr:conscriptionnumber": "6",
+        "addr:country": "CZ",
+        "addr:housenumber": "6",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915373"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313412,
+      "lat": 49.4303526,
+      "lon": 16.7994213,
+      "tags": {
+        "addr:conscriptionnumber": "1",
+        "addr:country": "CZ",
+        "addr:housenumber": "1",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7914491"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313418,
+      "lat": 49.4337676,
+      "lon": 16.8118250,
+      "tags": {
+        "addr:conscriptionnumber": "168",
+        "addr:country": "CZ",
+        "addr:housenumber": "168",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916957"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313420,
+      "lat": 49.4338788,
+      "lon": 16.8120150,
+      "tags": {
+        "addr:conscriptionnumber": "196",
+        "addr:country": "CZ",
+        "addr:housenumber": "196",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917228"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313556,
+      "lat": 49.4293163,
+      "lon": 16.8021913,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.16",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "16",
+        "ref:ruian:addr": "7915284",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313564,
+      "lat": 49.4326943,
+      "lon": 16.8052813,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.25",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "25",
+        "ref:ruian:addr": "7917414"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313566,
+      "lat": 49.4293901,
+      "lon": 16.8023775,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.15",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "15",
+        "ref:ruian:addr": "7915276",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313576,
+      "lat": 49.4294988,
+      "lon": 16.8025400,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.20",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "20",
+        "ref:ruian:addr": "7915306",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313577,
+      "lat": 49.4323313,
+      "lon": 16.8050263,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.32",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "32",
+        "ref:ruian:addr": "7917431",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313579,
+      "lat": 49.4297001,
+      "lon": 16.8031575,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.9",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "9",
+        "ref:ruian:addr": "7915225",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313587,
+      "lat": 49.4324927,
+      "lon": 16.8055172,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.23",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "23",
+        "ref:ruian:addr": "30947928"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313588,
+      "lat": 49.4292176,
+      "lon": 16.8020175,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.17",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "17",
+        "ref:ruian:addr": "7915292",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313591,
+      "lat": 49.4326175,
+      "lon": 16.8048263,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.34",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "34",
+        "ref:ruian:addr": "7915314",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313594,
+      "lat": 49.4321075,
+      "lon": 16.8052675,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.39",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "39",
+        "ref:ruian:addr": "7917449",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313600,
+      "lat": 49.4296851,
+      "lon": 16.8028738,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.12",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "12",
+        "ref:ruian:addr": "7915250",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313602,
+      "lat": 49.4329675,
+      "lon": 16.8049113,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.37",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "37",
+        "ref:ruian:addr": "30947901",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313604,
+      "lat": 49.4296613,
+      "lon": 16.8111050,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.64",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "64",
+        "ref:ruian:addr": "7917457",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313610,
+      "lat": 49.4296938,
+      "lon": 16.8030138,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.11",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "11",
+        "ref:ruian:addr": "7915241",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313613,
+      "lat": 49.4314600,
+      "lon": 16.8067650,
+      "tags": {
+        "addr:conscriptionnumber": "64",
+        "addr:country": "CZ",
+        "addr:housenumber": "64",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "30947910",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313616,
+      "lat": 49.4261426,
+      "lon": 16.7977850,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.36",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "36",
+        "ref:ruian:addr": "30947898",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313623,
+      "lat": 49.4295726,
+      "lon": 16.8027688,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.13",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "13",
+        "ref:ruian:addr": "7915268",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313626,
+      "lat": 49.4324975,
+      "lon": 16.8051250,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.27",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "27",
+        "ref:ruian:addr": "30947936",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1179313632,
+      "lat": 49.4297713,
+      "lon": 16.8032863,
+      "tags": {
+        "addr:country": "CZ",
+        "addr:housenumber": "ev.10",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "10",
+        "ref:ruian:addr": "7915233",
+        "source": "cuzk:km"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786166369,
+      "lat": 49.4316980,
+      "lon": 16.8060854,
+      "tags": {
+        "addr:conscriptionnumber": "159",
+        "addr:housenumber": "159",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916868"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786166915,
+      "lat": 49.4313977,
+      "lon": 16.8108162,
+      "tags": {
+        "addr:conscriptionnumber": "182",
+        "addr:housenumber": "182",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7917091"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786167016,
+      "lat": 49.4339848,
+      "lon": 16.8151673,
+      "tags": {
+        "addr:conscriptionnumber": "19",
+        "addr:housenumber": "19",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7915501"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786168632,
+      "lat": 49.4297407,
+      "lon": 16.8073950,
+      "tags": {
+        "addr:conscriptionnumber": "208",
+        "addr:housenumber": "208",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "28332351"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786168646,
+      "lat": 49.4336264,
+      "lon": 16.8102226,
+      "tags": {
+        "addr:conscriptionnumber": "209",
+        "addr:housenumber": "209",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "40620921"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786168713,
+      "lat": 49.4323201,
+      "lon": 16.8056403,
+      "tags": {
+        "addr:conscriptionnumber": "210",
+        "addr:housenumber": "210",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "28476689"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786168728,
+      "lat": 49.4311248,
+      "lon": 16.8131980,
+      "tags": {
+        "addr:conscriptionnumber": "211",
+        "addr:housenumber": "211",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "40419096"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786168738,
+      "lat": 49.4346487,
+      "lon": 16.8115920,
+      "tags": {
+        "addr:conscriptionnumber": "212",
+        "addr:housenumber": "212",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "41216041"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786168804,
+      "lat": 49.4337535,
+      "lon": 16.8105639,
+      "tags": {
+        "addr:conscriptionnumber": "215",
+        "addr:housenumber": "215",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "41306147"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786168863,
+      "lat": 49.4337342,
+      "lon": 16.8125998,
+      "tags": {
+        "addr:conscriptionnumber": "216",
+        "addr:housenumber": "216",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "42748852"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786168885,
+      "lat": 49.4304296,
+      "lon": 16.8116657,
+      "tags": {
+        "addr:conscriptionnumber": "217",
+        "addr:housenumber": "217",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "42755964"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786191268,
+      "lat": 49.4263297,
+      "lon": 16.7982490,
+      "tags": {
+        "addr:conscriptionnumber": "77",
+        "addr:housenumber": "77",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "26678390"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786191839,
+      "lat": 49.4300954,
+      "lon": 16.8010979,
+      "tags": {
+        "addr:conscriptionnumber": "80",
+        "addr:housenumber": "80",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "40396304"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786191951,
+      "lat": 49.4325987,
+      "lon": 16.7961043,
+      "tags": {
+        "addr:conscriptionnumber": "81",
+        "addr:housenumber": "81",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "42824028"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786196921,
+      "lat": 49.4324763,
+      "lon": 16.8091235,
+      "tags": {
+        "addr:conscriptionnumber": "99",
+        "addr:housenumber": "99",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "7916272"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2934557021,
+      "lat": 49.4344510,
+      "lon": 16.8108338,
+      "tags": {
+        "addr:conscriptionnumber": "213",
+        "addr:housenumber": "213",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "72846470"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3978066831,
+      "lat": 49.4340962,
+      "lon": 16.8100381,
+      "tags": {
+        "addr:conscriptionnumber": "214",
+        "addr:housenumber": "214",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "74500996"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4381404078,
+      "lat": 49.4319888,
+      "lon": 16.8086572,
+      "tags": {
+        "addr:conscriptionnumber": "218",
+        "addr:housenumber": "218",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "75279002"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4570036769,
+      "lat": 49.4320099,
+      "lon": 16.8078792,
+      "tags": {
+        "addr:conscriptionnumber": "221",
+        "addr:housenumber": "221",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "75664208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4826929414,
+      "lat": 49.4303928,
+      "lon": 16.8058681,
+      "tags": {
+        "addr:conscriptionnumber": "220",
+        "addr:housenumber": "220",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "76113051"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5658246291,
+      "lat": 49.4346479,
+      "lon": 16.8100112,
+      "tags": {
+        "addr:housenumber": "ev.40",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "addr:provisionalnumber": "40",
+        "ref:ruian:addr": "78323479"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5710624297,
+      "lat": 49.4348173,
+      "lon": 16.8114380,
+      "tags": {
+        "addr:conscriptionnumber": "222",
+        "addr:housenumber": "222",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "78412218"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7051788859,
+      "lat": 49.4303409,
+      "lon": 16.8018016,
+      "tags": {
+        "addr:conscriptionnumber": "87",
+        "addr:housenumber": "87",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "80153399"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7750294308,
+      "lat": 49.4321143,
+      "lon": 16.7918278,
+      "tags": {
+        "addr:conscriptionnumber": "88",
+        "addr:housenumber": "88",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "81008694"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8455824234,
+      "lat": 49.4310192,
+      "lon": 16.8109119,
+      "tags": {
+        "addr:conscriptionnumber": "227",
+        "addr:housenumber": "227",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "81520662"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8749270300,
+      "lat": 49.4332545,
+      "lon": 16.8146371,
+      "tags": {
+        "addr:conscriptionnumber": "226",
+        "addr:housenumber": "226",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "81790686"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8907073488,
+      "lat": 49.4342597,
+      "lon": 16.8114965,
+      "tags": {
+        "addr:conscriptionnumber": "224",
+        "addr:housenumber": "224",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "81918887"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9042164806,
+      "lat": 49.4280696,
+      "lon": 16.7982826,
+      "tags": {
+        "addr:conscriptionnumber": "89",
+        "addr:housenumber": "89",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "82040320"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10301618849,
+      "lat": 49.4313906,
+      "lon": 16.8104610,
+      "tags": {
+        "addr:conscriptionnumber": "228",
+        "addr:housenumber": "228",
+        "addr:place": "Molenburk",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "84623284"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10301619663,
+      "lat": 49.4306190,
+      "lon": 16.8005922,
+      "tags": {
+        "addr:conscriptionnumber": "90",
+        "addr:housenumber": "90",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "84612592"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13140362453,
+      "lat": 49.4316248,
+      "lon": 16.7971054,
+      "tags": {
+        "addr:conscriptionnumber": "91",
+        "addr:housenumber": "91",
+        "addr:place": "Housko",
+        "addr:postcode": "67913",
+        "ref:ruian:addr": "87245701"
+      }
+    }
+
+  ]
+}

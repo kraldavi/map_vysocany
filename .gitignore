@@ -1,0 +1,6 @@
+.idea/
+www/temp/
+www/log/
+www/vendor/
+www/config/*.local.neon
+www/.php-cs-fixer.cache

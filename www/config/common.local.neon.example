@@ -1,0 +1,8 @@
+# Copy as common.local.neon for PHP outside Docker (e.g. php -S localhost:8000 -t www).
+# With docker compose this file is ignored in the container — DB_HOST=db from docker-compose.yml.
+parameters:
+    dbHost: 127.0.0.1
+    dbName: mapa_vysocany
+    dbUser: user
+    dbPassword: secret
+    apiKey: dev-secret
