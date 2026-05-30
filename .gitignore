@@ -1,6 +1,10 @@
 .idea/
-www/temp/
-www/log/
-www/vendor/
+www/temp/*
+!www/temp/.gitkeep
+www/log/*
+!www/log/.gitkeep
+
+www/vendor/*
+!www/vendor/.gitkeep
 www/config/*.local.neon
 www/.php-cs-fixer.cache
